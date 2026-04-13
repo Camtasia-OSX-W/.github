@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.chemedx.org/sites/www.chemedx.org/files/images/blog/doug-ragan/camtasia-mac-update.png" width="800"/> 
+  <img src="https://lucidgen.com/wp-content/uploads/2020/06/cai-da-camtasia-cho-macbook-mien-phi-6.png" width="800"/> 
 </div>
 
 ---
